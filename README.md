@@ -1,6 +1,6 @@
-## palamto 👋
+## Jirawat Phattarawasitpol 👋
 
-I'm a software engineer, currently looking for my next role. In the meantime, I'm exploring ideas and building small products.
+I'm a software engineer, known online as **palamto**. Currently looking for my next role, and spending my free time exploring ideas and building small products.
 
 ## Products
 
