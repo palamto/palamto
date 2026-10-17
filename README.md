@@ -1,6 +1,6 @@
-# palamto 👋
+## palamto 👋
 
-Building small products.
+I'm a software engineer, currently looking for my next role. In the meantime, I'm exploring ideas and building small products.
 
 ## Products
 
