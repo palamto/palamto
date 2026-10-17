@@ -4,7 +4,7 @@ Building small products.
 
 ## Products
 
-[lettary](https://lettary.online/) — A daily word game. Collect 5 letters in 6 guesses, then arrange the word.
+🎯 [lettary](https://lettary.online/) — A daily word game. Collect 5 letters in 6 guesses, then arrange the word.
 
 ## Connect
 
