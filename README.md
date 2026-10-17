@@ -1,8 +1,15 @@
 # palamto 👋
 
-Building small products, one ship at a time.
+Building small products.
 
-🚢 **Ship 01 — [lettary](https://lettary.online/)**  
-A daily word game. Collect 5 letters in 6 guesses, then arrange the word.
+## Products
 
-[X · @palamto](https://x.com/palamto)
+[lettary](https://lettary.online/) — A daily word game. Collect 5 letters in 6 guesses, then arrange the word.
+
+## Connect
+
+[X · @palamto](https://x.com/palamto) · [GitHub · palamto](https://github.com/palamto)
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,svelte,react,next,tailwind,vite,vscode,pnpm,figma,vercel,postman,supabase)](https://skillicons.dev)
