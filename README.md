@@ -4,6 +4,8 @@ I'm a software engineer, known online as **palamto**. Currently looking for my n
 
 ## Products
 
+💸 [witnd](https://witnd.com/) — Small plans. A clearer tomorrow. Plan income, bills, and subscriptions, and see how your balance could change.
+
 🎯 [lettary](https://lettary.online/) — A daily word game. Collect 5 letters in 6 guesses, then arrange the word.
 
 ## Connect
