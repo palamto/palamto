@@ -1,4 +1,4 @@
-## Jirawat Phattarawasitpol 👋
+## Palamto 👋
 
 I'm a software engineer, known online as **palamto**. Currently looking for my next role, and spending my free time exploring ideas and building small products.
 
